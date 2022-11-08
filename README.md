@@ -34,7 +34,7 @@
 
 ## Most Used Languages
 
-![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOVSEP93&layout=compact&theme=tokyonight)
+![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOVSEP93&layout=compact&theme=vue-dark)
 
 ## My github activity graph
 
