@@ -29,12 +29,12 @@
 ## Github Stats :
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HOVSEP93)  -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HOVSEP93&theme=vue-dark" alt="Hovsep" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=HOVSEP93&show_icons=true&theme=vue-dark" alt="Hovsep" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HOVSEP93&theme=nightowl" alt="Hovsep" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=HOVSEP93&show_icons=true&theme=nightowl" alt="Hovsep" /></p>
 
 ## Most Used Languages
 
-![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOVSEP93&layout=compact&theme=vue-dark)
+![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOVSEP93&layout=compact&theme=nightowl)
 
 ## My github activity graph
 
