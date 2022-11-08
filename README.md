@@ -29,8 +29,8 @@
 ## Github Stats :
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HOVSEP93)  -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HOVSEP93&theme=dracula" alt="Hovsep" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=HOVSEP93&show_icons=true&theme=dracula" alt="Hovsep" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HOVSEP93&theme=vue-dark" alt="Hovsep" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=HOVSEP93&show_icons=true&theme=vue-dark" alt="Hovsep" /></p>
 
 ## Most Used Languages
 
